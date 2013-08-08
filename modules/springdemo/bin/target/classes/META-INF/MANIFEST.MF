@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: yingrong :: Module :: springdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: yingrong
+Build-Jdk: 1.6.0_23
+Built-By: yingrong
+Created-By: Maven Integration for Eclipse
+
