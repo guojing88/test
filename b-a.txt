@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 i am from dev haha 
+=======
+now its master default branch
+now its dev branch. not master
+why i can see line2? it is master!!:wq
+
+>>>>>>> master
+
+
+conflicts resloved
