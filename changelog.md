@@ -8,3 +8,6 @@ now i create branch dev1 from master
 this time , i 'git merge --no-ff dev1' at master
 
 git branch -d dev
+
+
+switch from dev1
