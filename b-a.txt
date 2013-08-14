@@ -1,0 +1,4 @@
+now its master default branch
+now its dev branch. not master
+why i can see line2? it is master!!:wq
+
