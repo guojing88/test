@@ -9,7 +9,12 @@ this time , i 'git merge --no-ff dev1' at master
 
 git branch -d dev
 
+<<<<<<< HEAD
+
+switch from dev1
+=======
 on dev1 git merge master
 
 zou liang bu  ^````     `
 
+>>>>>>> dev1
