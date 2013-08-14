@@ -3,4 +3,5 @@ public class Hello{
 		System.out.print("hello git java!");
 	}
 	private int i = 0;
+	int ii = i++;
 }
