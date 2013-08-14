@@ -5,3 +5,7 @@ dev1分支详细走几步
 
 
 force commit 'git commit -a -m "" '
+
+
+dev1 has zouliangbu le
+
